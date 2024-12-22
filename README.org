@@ -1,0 +1,9 @@
+* rust ip grabber (real!!!!!!!)
+
+this just prints ur ip lol
+ 
+
+
+
+
+(Made On GNU/Emacs :3)
